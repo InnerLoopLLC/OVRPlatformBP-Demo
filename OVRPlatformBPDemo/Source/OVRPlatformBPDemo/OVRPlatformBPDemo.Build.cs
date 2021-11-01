@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class OculusPlatformBPDemo : ModuleRules
+public class OVRPlatformBPDemo : ModuleRules
 {
-	public OculusPlatformBPDemo(ReadOnlyTargetRules Target) : base(Target)
+	public OVRPlatformBPDemo(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

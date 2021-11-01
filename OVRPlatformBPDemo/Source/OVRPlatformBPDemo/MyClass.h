@@ -7,7 +7,7 @@
 /**
  * 
  */
-class OCULUSPLATFORMBPDEMO_API MyClass
+class OVRPLATFORMBPDEMO_API MyClass
 {
 public:
 	MyClass();
