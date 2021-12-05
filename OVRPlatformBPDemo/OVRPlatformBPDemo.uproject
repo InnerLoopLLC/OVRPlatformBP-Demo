@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{802E9C3E-4EF4-729B-1E10-64AA8D4ABD2C}",
+	"EngineAssociation": "{43A2173A-46C3-146B-E4BB-ACBD4696682F}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -35,11 +35,11 @@
 		},
 		{
 			"Name": "OpenVRExpansionPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "VRExpansionPlugin",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
